@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "赵",
+    "alphabetic": "zhao",
+    "tone": "zhào"
+  },
+  {
+    "name": "钱",
+    "alphabetic": "qian",
+    "tone": "qián"
+  },
+  {
+    "name": "孙",
+    "alphabetic": "sun",
+    "tone": "sūn"
+  },
+  {
+    "name": "李",
+    "alphabetic": "li",
+    "tone": "lǐ"
+  },
+  {
+    "name": "周",
+    "alphabetic": "zhou",
+    "tone": "zhōu"
+  },
+  {
+    "name": "吴",
+    "alphabetic": "wu",
+    "tone": "wú"
+  },
+  {
+    "name": "郑",
+    "alphabetic": "zheng",
+    "tone": "zhèng"
+  },
+  {
+    "name": "王",
+    "alphabetic": "wang",
+    "tone": "wáng"
+  },
+  {
+    "name": "冯",
+    "alphabetic": "feng",
+    "tone": "féng"
+  },
+  {
+    "name": "陈",
+    "alphabetic": "chen",
+    "tone": "chén"
+  },
+  {
+    "name": "褚",
+    "alphabetic": "chu",
+    "tone": "chǔ"
+  },
+  {
+    "name": "卫",
+    "alphabetic": "wei",
+    "tone": "wèi"
+  },
+  {
+    "name": "蒋",
+    "alphabetic": "jiang",
+    "tone": "jiǎng"
+  },
+  {
+    "name": "沈",
+    "alphabetic": "shen",
+    "tone": "shěn"
+  },
+  {
+    "name": "韩",
+    "alphabetic": "han",
+    "tone": "hán"
+  },
+  {
+    "name": "杨",
+    "alphabetic": "yang",
+    "tone": "yáng"
+  },
+  {
+    "name": "朱",
+    "alphabetic": "zhu",
+    "tone": "zhū"
+  },
+  {
+    "name": "秦",
+    "alphabetic": "qin",
+    "tone": "qín"
+  },
+  {
+    "name": "尤",
+    "alphabetic": "you",
+    "tone": "yóu"
+  },
+  {
+    "name": "许",
+    "alphabetic": "xu",
+    "tone": "xǔ"
+  },
+  {
+    "name": "何",
+    "alphabetic": "he",
+    "tone": "hé"
+  },
+  {
+    "name": "吕",
+    "alphabetic": "lv",
+    "tone": "lǚ"
+  },
+  {
+    "name": "施",
+    "alphabetic": "shi",
+    "tone": "shī"
+  },
+  {
+    "name": "张",
+    "alphabetic": "zhang",
+    "tone": "zhāng"
+  },
+  {
+    "name": "孔",
+    "alphabetic": "kong",
+    "tone": "kǒng"
+  },
+  {
+    "name": "曹",
+    "alphabetic": "cao",
+    "tone": "cáo"
+  },
+  {
+    "name": "严",
+    "alphabetic": "yan",
+    "tone": "yán"
+  },
+  {
+    "name": "华",
+    "alphabetic": "hua",
+    "tone": "huà"
+  },
+  {
+    "name": "金",
+    "alphabetic": "jin",
+    "tone": "jīn"
+  },
+  {
+    "name": "魏",
+    "alphabetic": "wei",
+    "tone": "wèi"
+  },
+  {
+    "name": "陶",
+    "alphabetic": "tao",
+    "tone": "táo"
+  },
+  {
+    "name": "姜",
+    "alphabetic": "jiang",
+    "tone": "jiāng"
+  },
+  {
+    "name": "戚",
+    "alphabetic": "qi",
+    "tone": "qī"
+  },
+  {
+    "name": "谢",
+    "alphabetic": "xie",
+    "tone": "xiè"
+  },
+  {
+    "name": "邹",
+    "alphabetic": "zou",
+    "tone": "zōu"
+  },
+  {
+    "name": "喻",
+    "alphabetic": "yu",
+    "tone": "yù"
+  },
+  {
+    "name": "柏",
+    "alphabetic": "bai",
+    "tone": "bǎi"
+  },
+  {
+    "name": "水",
+    "alphabetic": "shui",
+    "tone": "shuǐ"
+  },
+  {
+    "name": "窦",
+    "alphabetic": "dou",
+    "tone": "dòu"
+  },
+  {
+    "name": "章",
+    "alphabetic": "zhang",
+    "tone": "zhāng"
+  },
+  {
+    "name": "云",
+    "alphabetic": "yun",
+    "tone": "yún"
+  },
+  {
+    "name": "苏",
+    "alphabetic": "su",
+    "tone": "sū"
+  },
+  {
+    "name": "潘",
+    "alphabetic": "pan",
+    "tone": "pān"
+  },
+  {
+    "name": "葛",
+    "alphabetic": "ge",
+    "tone": "gě"
+  },
+  {
+    "name": "奚",
+    "alphabetic": "xi",
+    "tone": "xī"
+  },
+  {
+    "name": "范",
+    "alphabetic": "fan",
+    "tone": "fàn"
+  },
+  {
+    "name": "彭",
+    "alphabetic": "peng",
+    "tone": "péng"
+  },
+  {
+    "name": "郎",
+    "alphabetic": "lang",
+    "tone": "láng"
+  },
+  {
+    "name": "鲁",
+    "alphabetic": "lu",
+    "tone": "lǔ"
+  },
+  {
+    "name": "韦",
+    "alphabetic": "wei",
+    "tone": "wéi"
+  },
+  {
+    "name": "昌",
+    "alphabetic": "chang",
+    "tone": "chāng"
+  },
+  {
+    "name": "马",
+    "alphabetic": "ma",
+    "tone": "mǎ"
+  },
+  {
+    "name": "苗",
+    "alphabetic": "miao",
+    "tone": "miáo"
+  },
+  {
+    "name": "凤",
+    "alphabetic": "feng",
+    "tone": "fèng"
+  },
+  {
+    "name": "花",
+    "alphabetic": "hua",
+    "tone": "huā"
+  },
+  {
+    "name": "方",
+    "alphabetic": "fang",
+    "tone": "fāng"
+  },
+  {
+    "name": "俞",
+    "alphabetic": "yu",
+    "tone": "yú"
+  },
+  {
+    "name": "任",
+    "alphabetic": "ren",
+    "tone": "rèn"
+  },
+  {
+    "name": "袁",
+    "alphabetic": "yuan",
+    "tone": "yuán"
+  },
+  {
+    "name": "柳",
+    "alphabetic": "liu",
+    "tone": "liǔ"
+  },
+  {
+    "name": "酆",
+    "alphabetic": "feng",
+    "tone": "fēng"
+  },
+  {
+    "name": "鲍",
+    "alphabetic": "bao",
+    "tone": "bào"
+  },
+  {
+    "name": "史",
+    "alphabetic": "shi",
+    "tone": "shǐ"
+  },
+  {
+    "name": "唐",
+    "alphabetic": "tang",
+    "tone": "táng"
+  },
+  {
+    "name": "费",
+    "alphabetic": "fei",
+    "tone": "fèi"
+  },
+  {
+    "name": "廉",
+    "alphabetic": "lian",
+    "tone": "lián"
+  },
+  {
+    "name": "岑",
+    "alphabetic": "cen",
+    "tone": "cén"
+  },
+  {
+    "name": "薛",
+    "alphabetic": "xue",
+    "tone": "xuē"
+  },
+  {
+    "name": "雷",
+    "alphabetic": "lei",
+    "tone": "léi"
+  },
+  {
+    "name": "贺",
+    "alphabetic": "he",
+    "tone": "hè"
+  },
+  {
+    "name": "倪",
+    "alphabetic": "ni",
+    "tone": "ní"
+  },
+  {
+    "name": "汤",
+    "alphabetic": "tang",
+    "tone": "tāng"
+  },
+  {
+    "name": "滕",
+    "alphabetic": "teng",
+    "tone": "téng"
+  },
+  {
+    "name": "殷",
+    "alphabetic": "yin",
+    "tone": "yīn"
+  },
+  {
+    "name": "罗",
+    "alphabetic": "luo",
+    "tone": "luó"
+  },
+  {
+    "name": "毕",
+    "alphabetic": "bi",
+    "tone": "bì"
+  },
+  {
+    "name": "郝",
+    "alphabetic": "hao",
+    "tone": "hǎo"
+  },
+  {
+    "name": "邬",
+    "alphabetic": "wu",
+    "tone": "wū"
+  },
+  {
+    "name": "安",
+    "alphabetic": "an",
+    "tone": "ān"
+  },
+  {
+    "name": "常",
+    "alphabetic": "chang",
+    "tone": "cháng"
+  },
+  {
+    "name": "乐",
+    "alphabetic": "yue",
+    "tone": "yuè"
+  },
+  {
+    "name": "于",
+    "alphabetic": "yu",
+    "tone": "yú"
+  },
+  {
+    "name": "时",
+    "alphabetic": "shi",
+    "tone": "shí"
+  },
+  {
+    "name": "傅",
+    "alphabetic": "fu",
+    "tone": "fù"
+  },
+  {
+    "name": "皮",
+    "alphabetic": "pi",
+    "tone": "pí"
+  },
+  {
+    "name": "卞",
+    "alphabetic": "bian",
+    "tone": "biàn"
+  },
+  {
+    "name": "齐",
+    "alphabetic": "qi",
+    "tone": "qí"
+  },
+  {
+    "name": "康",
+    "alphabetic": "kang",
+    "tone": "kāng"
+  },
+  {
+    "name": "伍",
+    "alphabetic": "wu",
+    "tone": "wǔ"
+  },
+  {
+    "name": "余",
+    "alphabetic": "yu",
+    "tone": "yú"
+  },
+  {
+    "name": "元",
+    "alphabetic": "yuan",
+    "tone": "yuán"
+  },
+  {
+    "name": "卜",
+    "alphabetic": "bu",
+    "tone": "bǔ"
+  },
+  {
+    "name": "顾",
+    "alphabetic": "gu",
+    "tone": "gù"
+  },
+  {
+    "name": "孟",
+    "alphabetic": "meng",
+    "tone": "mèng"
+  },
+  {
+    "name": "平",
+    "alphabetic": "ping",
+    "tone": "píng"
+  },
+  {
+    "name": "黄",
+    "alphabetic": "huang",
+    "tone": "huáng"
+  },
+  {
+    "name": "和",
+    "alphabetic": "he",
+    "tone": "hé"
+  },
+  {
+    "name": "穆",
+    "alphabetic": "mu",
+    "tone": "mù"
+  },
+  {
+    "name": "萧",
+    "alphabetic": "xiao",
+    "tone": "xiāo"
+  },
+  {
+    "name": "尹",
+    "alphabetic": "yin",
+    "tone": "yǐn"
+  },
+  {
+    "name": "姚",
+    "alphabetic": "yao",
+    "tone": "yáo"
+  },
+  {
+    "name": "邵",
+    "alphabetic": "shao",
+    "tone": "shào"
+  },
+  {
+    "name": "湛",
+    "alphabetic": "zhan",
+    "tone": "zhàn"
+  },
+  {
+    "name": "汪",
+    "alphabetic": "wang",
+    "tone": "wāng"
+  },
+  {
+    "name": "祁",
+    "alphabetic": "qi",
+    "tone": "qí"
+  },
+  {
+    "name": "毛",
+    "alphabetic": "mao",
+    "tone": "máo"
+  },
+  {
+    "name": "禹",
+    "alphabetic": "yu",
+    "tone": "yǔ"
+  },
+  {
+    "name": "狄",
+    "alphabetic": "di",
+    "tone": "dí"
+  },
+  {
+    "name": "米",
+    "alphabetic": "mi",
+    "tone": "mǐ"
+  },
+  {
+    "name": "贝",
+    "alphabetic": "bei",
+    "tone": "bèi"
+  },
+  {
+    "name": "明",
+    "alphabetic": "ming",
+    "tone": "míng"
+  },
+  {
+    "name": "臧",
+    "alphabetic": "zang",
+    "tone": "zāng"
+  },
+  {
+    "name": "计",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "伏",
+    "alphabetic": "fu",
+    "tone": "fú"
+  },
+  {
+    "name": "成",
+    "alphabetic": "cheng",
+    "tone": "chéng"
+  },
+  {
+    "name": "戴",
+    "alphabetic": "dai",
+    "tone": "dài"
+  },
+  {
+    "name": "谈",
+    "alphabetic": "tan",
+    "tone": "tán"
+  },
+  {
+    "name": "宋",
+    "alphabetic": "song",
+    "tone": "sòng"
+  },
+  {
+    "name": "茅",
+    "alphabetic": "mao",
+    "tone": "máo"
+  },
+  {
+    "name": "庞",
+    "alphabetic": "pang",
+    "tone": "páng"
+  },
+  {
+    "name": "熊",
+    "alphabetic": "xiong",
+    "tone": "xióng"
+  },
+  {
+    "name": "纪",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "舒",
+    "alphabetic": "shu",
+    "tone": "shū"
+  },
+  {
+    "name": "屈",
+    "alphabetic": "qu",
+    "tone": "qū"
+  },
+  {
+    "name": "项",
+    "alphabetic": "xiang",
+    "tone": "xiàng"
+  },
+  {
+    "name": "祝",
+    "alphabetic": "zhu",
+    "tone": "zhù"
+  },
+  {
+    "name": "董",
+    "alphabetic": "dong",
+    "tone": "dǒng"
+  },
+  {
+    "name": "梁",
+    "alphabetic": "liang",
+    "tone": "liáng"
+  },
+  {
+    "name": "杜",
+    "alphabetic": "du",
+    "tone": "dù"
+  },
+  {
+    "name": "阮",
+    "alphabetic": "ruan",
+    "tone": "ruǎn"
+  },
+  {
+    "name": "蓝",
+    "alphabetic": "lan",
+    "tone": "lán"
+  },
+  {
+    "name": "闵",
+    "alphabetic": "min",
+    "tone": "mǐn"
+  },
+  {
+    "name": "席",
+    "alphabetic": "xi",
+    "tone": "xí"
+  },
+  {
+    "name": "季",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "麻",
+    "alphabetic": "ma",
+    "tone": "má"
+  },
+  {
+    "name": "强",
+    "alphabetic": "qiang",
+    "tone": "qiáng"
+  },
+  {
+    "name": "贾",
+    "alphabetic": "jia",
+    "tone": "jiǎ"
+  },
+  {
+    "name": "路",
+    "alphabetic": "lu",
+    "tone": "lù"
+  },
+  {
+    "name": "娄",
+    "alphabetic": "lou",
+    "tone": "lóu"
+  },
+  {
+    "name": "危",
+    "alphabetic": "wei",
+    "tone": "wēi"
+  },
+  {
+    "name": "江",
+    "alphabetic": "jiang",
+    "tone": "jiāng"
+  },
+  {
+    "name": "童",
+    "alphabetic": "tong",
+    "tone": "tóng"
+  },
+  {
+    "name": "颜",
+    "alphabetic": "yan",
+    "tone": "yán"
+  },
+  {
+    "name": "郭",
+    "alphabetic": "guo",
+    "tone": "guō"
+  },
+  {
+    "name": "梅",
+    "alphabetic": "mei",
+    "tone": "méi"
+  },
+  {
+    "name": "盛",
+    "alphabetic": "sheng",
+    "tone": "shèng"
+  },
+  {
+    "name": "林",
+    "alphabetic": "lin",
+    "tone": "lín"
+  },
+  {
+    "name": "刁",
+    "alphabetic": "diao",
+    "tone": "diāo"
+  },
+  {
+    "name": "钟",
+    "alphabetic": "zhong",
+    "tone": "zhōng"
+  },
+  {
+    "name": "徐",
+    "alphabetic": "xu",
+    "tone": "xú"
+  },
+  {
+    "name": "邱",
+    "alphabetic": "qiu",
+    "tone": "qiū"
+  },
+  {
+    "name": "骆",
+    "alphabetic": "luo",
+    "tone": "luò"
+  },
+  {
+    "name": "高",
+    "alphabetic": "gao",
+    "tone": "gāo"
+  },
+  {
+    "name": "夏",
+    "alphabetic": "xia",
+    "tone": "xià"
+  },
+  {
+    "name": "蔡",
+    "alphabetic": "cai",
+    "tone": "cài"
+  },
+  {
+    "name": "田",
+    "alphabetic": "tian",
+    "tone": "tián"
+  },
+  {
+    "name": "樊",
+    "alphabetic": "fan",
+    "tone": "fán"
+  },
+  {
+    "name": "胡",
+    "alphabetic": "hu",
+    "tone": "hú"
+  },
+  {
+    "name": "凌",
+    "alphabetic": "ling",
+    "tone": "líng"
+  },
+  {
+    "name": "霍",
+    "alphabetic": "huo",
+    "tone": "huò"
+  },
+  {
+    "name": "虞",
+    "alphabetic": "yu",
+    "tone": "yú"
+  },
+  {
+    "name": "万",
+    "alphabetic": "wan",
+    "tone": "wàn"
+  },
+  {
+    "name": "支",
+    "alphabetic": "zhi",
+    "tone": "zhī"
+  },
+  {
+    "name": "柯",
+    "alphabetic": "ke",
+    "tone": "kē"
+  },
+  {
+    "name": "昝",
+    "alphabetic": "zan",
+    "tone": "zǎn"
+  },
+  {
+    "name": "管",
+    "alphabetic": "guan",
+    "tone": "guǎn"
+  },
+  {
+    "name": "卢",
+    "alphabetic": "lu",
+    "tone": "lú"
+  },
+  {
+    "name": "莫",
+    "alphabetic": "mo",
+    "tone": "mò"
+  },
+  {
+    "name": "经",
+    "alphabetic": "jing",
+    "tone": "jīng"
+  },
+  {
+    "name": "房",
+    "alphabetic": "fang",
+    "tone": "fáng"
+  },
+  {
+    "name": "裘",
+    "alphabetic": "qiu",
+    "tone": "qiú"
+  },
+  {
+    "name": "缪",
+    "alphabetic": "miao",
+    "tone": "miào"
+  },
+  {
+    "name": "干",
+    "alphabetic": "gan",
+    "tone": "gān"
+  },
+  {
+    "name": "解",
+    "alphabetic": "xie",
+    "tone": "xiè"
+  },
+  {
+    "name": "应",
+    "alphabetic": "ying",
+    "tone": "yīng"
+  },
+  {
+    "name": "宗",
+    "alphabetic": "zong",
+    "tone": "zōng"
+  },
+  {
+    "name": "丁",
+    "alphabetic": "ding",
+    "tone": "dīng"
+  },
+  {
+    "name": "宣",
+    "alphabetic": "xuan",
+    "tone": "xuān"
+  },
+  {
+    "name": "贲",
+    "alphabetic": "ben",
+    "tone": "bēn"
+  },
+  {
+    "name": "邓",
+    "alphabetic": "deng",
+    "tone": "dèng"
+  },
+  {
+    "name": "郁",
+    "alphabetic": "yu",
+    "tone": "yù"
+  },
+  {
+    "name": "单",
+    "alphabetic": "shan",
+    "tone": "shàn"
+  },
+  {
+    "name": "杭",
+    "alphabetic": "hang",
+    "tone": "háng"
+  },
+  {
+    "name": "洪",
+    "alphabetic": "hong",
+    "tone": "hóng"
+  },
+  {
+    "name": "包",
+    "alphabetic": "bao",
+    "tone": "bāo"
+  },
+  {
+    "name": "诸",
+    "alphabetic": "zhu",
+    "tone": "zhū"
+  },
+  {
+    "name": "左",
+    "alphabetic": "zuo",
+    "tone": "zuǒ"
+  },
+  {
+    "name": "石",
+    "alphabetic": "shi",
+    "tone": "shí"
+  },
+  {
+    "name": "崔",
+    "alphabetic": "cui",
+    "tone": "cuī"
+  },
+  {
+    "name": "吉",
+    "alphabetic": "ji",
+    "tone": "jí"
+  },
+  {
+    "name": "钮",
+    "alphabetic": "niu",
+    "tone": "niǔ"
+  },
+  {
+    "name": "龚",
+    "alphabetic": "gong",
+    "tone": "gōng"
+  },
+  {
+    "name": "程",
+    "alphabetic": "cheng",
+    "tone": "chéng"
+  },
+  {
+    "name": "嵇",
+    "alphabetic": "ji",
+    "tone": "jī"
+  },
+  {
+    "name": "邢",
+    "alphabetic": "xing",
+    "tone": "xíng"
+  },
+  {
+    "name": "滑",
+    "alphabetic": "hua",
+    "tone": "huá"
+  },
+  {
+    "name": "裴",
+    "alphabetic": "pei",
+    "tone": "péi"
+  },
+  {
+    "name": "陆",
+    "alphabetic": "lu",
+    "tone": "lù"
+  },
+  {
+    "name": "荣",
+    "alphabetic": "rong",
+    "tone": "róng"
+  },
+  {
+    "name": "翁",
+    "alphabetic": "weng",
+    "tone": "wēng"
+  },
+  {
+    "name": "荀",
+    "alphabetic": "xun",
+    "tone": "xún"
+  },
+  {
+    "name": "羊",
+    "alphabetic": "yang",
+    "tone": "yáng"
+  },
+  {
+    "name": "於",
+    "alphabetic": "yu",
+    "tone": "yū"
+  },
+  {
+    "name": "惠",
+    "alphabetic": "hui",
+    "tone": "huì"
+  },
+  {
+    "name": "甄",
+    "alphabetic": "zhen",
+    "tone": "zhēn"
+  },
+  {
+    "name": "曲",
+    "alphabetic": "qu",
+    "tone": "qū"
+  },
+  {
+    "name": "家",
+    "alphabetic": "jia",
+    "tone": "jiā"
+  },
+  {
+    "name": "封",
+    "alphabetic": "feng",
+    "tone": "fēng"
+  },
+  {
+    "name": "芮",
+    "alphabetic": "rui",
+    "tone": "ruì"
+  },
+  {
+    "name": "羿",
+    "alphabetic": "yi",
+    "tone": "yì"
+  },
+  {
+    "name": "储",
+    "alphabetic": "chu",
+    "tone": "chǔ"
+  },
+  {
+    "name": "靳",
+    "alphabetic": "jin",
+    "tone": "jìn"
+  },
+  {
+    "name": "汲",
+    "alphabetic": "ji",
+    "tone": "jí"
+  },
+  {
+    "name": "邴",
+    "alphabetic": "bing",
+    "tone": "bǐng"
+  },
+  {
+    "name": "糜",
+    "alphabetic": "mi",
+    "tone": "mí"
+  },
+  {
+    "name": "松",
+    "alphabetic": "song",
+    "tone": "sōng"
+  },
+  {
+    "name": "井",
+    "alphabetic": "jing",
+    "tone": "jǐng"
+  },
+  {
+    "name": "段",
+    "alphabetic": "duan",
+    "tone": "duàn"
+  },
+  {
+    "name": "富",
+    "alphabetic": "fu",
+    "tone": "fù"
+  },
+  {
+    "name": "巫",
+    "alphabetic": "wu",
+    "tone": "wū"
+  },
+  {
+    "name": "乌",
+    "alphabetic": "wu",
+    "tone": "wū"
+  },
+  {
+    "name": "焦",
+    "alphabetic": "jiao",
+    "tone": "jiāo"
+  },
+  {
+    "name": "巴",
+    "alphabetic": "ba",
+    "tone": "bā"
+  },
+  {
+    "name": "弓",
+    "alphabetic": "gong",
+    "tone": "gōng"
+  },
+  {
+    "name": "牧",
+    "alphabetic": "mu",
+    "tone": "mù"
+  },
+  {
+    "name": "隗",
+    "alphabetic": "kui",
+    "tone": "kuí"
+  },
+  {
+    "name": "山",
+    "alphabetic": "shan",
+    "tone": "shān"
+  },
+  {
+    "name": "谷",
+    "alphabetic": "gu",
+    "tone": "gǔ"
+  },
+  {
+    "name": "车",
+    "alphabetic": "che",
+    "tone": "chē"
+  },
+  {
+    "name": "侯",
+    "alphabetic": "hou",
+    "tone": "hóu"
+  },
+  {
+    "name": "宓",
+    "alphabetic": "mi",
+    "tone": "mì"
+  },
+  {
+    "name": "蓬",
+    "alphabetic": "peng",
+    "tone": "péng"
+  },
+  {
+    "name": "全",
+    "alphabetic": "quan",
+    "tone": "quán"
+  },
+  {
+    "name": "郗",
+    "alphabetic": "xi",
+    "tone": "xī"
+  },
+  {
+    "name": "班",
+    "alphabetic": "ban",
+    "tone": "bān"
+  },
+  {
+    "name": "仰",
+    "alphabetic": "yang",
+    "tone": "yǎng"
+  },
+  {
+    "name": "秋",
+    "alphabetic": "qiu",
+    "tone": "qiū"
+  },
+  {
+    "name": "仲",
+    "alphabetic": "zhong",
+    "tone": "zhòng"
+  },
+  {
+    "name": "伊",
+    "alphabetic": "yi",
+    "tone": "yī"
+  },
+  {
+    "name": "宫",
+    "alphabetic": "gong",
+    "tone": "gōng"
+  },
+  {
+    "name": "宁",
+    "alphabetic": "ning",
+    "tone": "nìng"
+  },
+  {
+    "name": "仇",
+    "alphabetic": "qiu",
+    "tone": "qiú"
+  },
+  {
+    "name": "栾",
+    "alphabetic": "luan",
+    "tone": "luán"
+  },
+  {
+    "name": "暴",
+    "alphabetic": "bao",
+    "tone": "bào"
+  },
+  {
+    "name": "甘",
+    "alphabetic": "gan",
+    "tone": "gān"
+  },
+  {
+    "name": "钭",
+    "alphabetic": "tou",
+    "tone": "tǒu"
+  },
+  {
+    "name": "厉",
+    "alphabetic": "li",
+    "tone": "lì"
+  },
+  {
+    "name": "戎",
+    "alphabetic": "rong",
+    "tone": "róng"
+  },
+  {
+    "name": "祖",
+    "alphabetic": "zu",
+    "tone": "zǔ"
+  },
+  {
+    "name": "武",
+    "alphabetic": "wu",
+    "tone": "wǔ"
+  },
+  {
+    "name": "符",
+    "alphabetic": "fu",
+    "tone": "fú"
+  },
+  {
+    "name": "刘",
+    "alphabetic": "liu",
+    "tone": "liú"
+  },
+  {
+    "name": "景",
+    "alphabetic": "jing",
+    "tone": "jǐng"
+  },
+  {
+    "name": "詹",
+    "alphabetic": "zhan",
+    "tone": "zhān"
+  },
+  {
+    "name": "束",
+    "alphabetic": "shu",
+    "tone": "shù"
+  },
+  {
+    "name": "龙",
+    "alphabetic": "long",
+    "tone": "lóng"
+  },
+  {
+    "name": "叶",
+    "alphabetic": "ye",
+    "tone": "yè"
+  },
+  {
+    "name": "幸",
+    "alphabetic": "xing",
+    "tone": "xìng"
+  },
+  {
+    "name": "司",
+    "alphabetic": "si",
+    "tone": "sī"
+  },
+  {
+    "name": "韶",
+    "alphabetic": "shao",
+    "tone": "sháo"
+  },
+  {
+    "name": "郜",
+    "alphabetic": "gao",
+    "tone": "gào"
+  },
+  {
+    "name": "黎",
+    "alphabetic": "li",
+    "tone": "lí"
+  },
+  {
+    "name": "蓟",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "薄",
+    "alphabetic": "bo",
+    "tone": "bó"
+  },
+  {
+    "name": "印",
+    "alphabetic": "yin",
+    "tone": "yìn"
+  },
+  {
+    "name": "宿",
+    "alphabetic": "su",
+    "tone": "sù"
+  },
+  {
+    "name": "白",
+    "alphabetic": "bai",
+    "tone": "bái"
+  },
+  {
+    "name": "怀",
+    "alphabetic": "huai",
+    "tone": "huái"
+  },
+  {
+    "name": "蒲",
+    "alphabetic": "pu",
+    "tone": "pú"
+  },
+  {
+    "name": "邰",
+    "alphabetic": "tai",
+    "tone": "tái"
+  },
+  {
+    "name": "从",
+    "alphabetic": "cong",
+    "tone": "cóng"
+  },
+  {
+    "name": "鄂",
+    "alphabetic": "e",
+    "tone": "è"
+  },
+  {
+    "name": "索",
+    "alphabetic": "suo",
+    "tone": "suǒ"
+  },
+  {
+    "name": "咸",
+    "alphabetic": "xian",
+    "tone": "xián"
+  },
+  {
+    "name": "籍",
+    "alphabetic": "ji",
+    "tone": "jí"
+  },
+  {
+    "name": "赖",
+    "alphabetic": "lai",
+    "tone": "lài"
+  },
+  {
+    "name": "卓",
+    "alphabetic": "zhuo",
+    "tone": "zhuó"
+  },
+  {
+    "name": "蔺",
+    "alphabetic": "lin",
+    "tone": "lìn"
+  },
+  {
+    "name": "屠",
+    "alphabetic": "tu",
+    "tone": "tú"
+  },
+  {
+    "name": "蒙",
+    "alphabetic": "meng",
+    "tone": "méng"
+  },
+  {
+    "name": "池",
+    "alphabetic": "chi",
+    "tone": "chí"
+  },
+  {
+    "name": "乔",
+    "alphabetic": "qiao",
+    "tone": "qiáo"
+  },
+  {
+    "name": "阴",
+    "alphabetic": "yin",
+    "tone": "yīn"
+  },
+  {
+    "name": "郁",
+    "alphabetic": "yu",
+    "tone": "yù"
+  },
+  {
+    "name": "胥",
+    "alphabetic": "xu",
+    "tone": "xū"
+  },
+  {
+    "name": "能",
+    "alphabetic": "nai",
+    "tone": "nài"
+  },
+  {
+    "name": "苍",
+    "alphabetic": "cang",
+    "tone": "cāng"
+  },
+  {
+    "name": "双",
+    "alphabetic": "shuang",
+    "tone": "shuāng"
+  },
+  {
+    "name": "闻",
+    "alphabetic": "wen",
+    "tone": "wén"
+  },
+  {
+    "name": "莘",
+    "alphabetic": "shen",
+    "tone": "shēn"
+  },
+  {
+    "name": "党",
+    "alphabetic": "dang",
+    "tone": "dǎng"
+  },
+  {
+    "name": "翟",
+    "alphabetic": "zhai",
+    "tone": "zhái"
+  },
+  {
+    "name": "谭",
+    "alphabetic": "tan",
+    "tone": "tán"
+  },
+  {
+    "name": "贡",
+    "alphabetic": "gong",
+    "tone": "gòng"
+  },
+  {
+    "name": "劳",
+    "alphabetic": "lao",
+    "tone": "láo"
+  },
+  {
+    "name": "逄",
+    "alphabetic": "pang",
+    "tone": "páng"
+  },
+  {
+    "name": "姬",
+    "alphabetic": "ji",
+    "tone": "jī"
+  },
+  {
+    "name": "申",
+    "alphabetic": "shen",
+    "tone": "shēn"
+  },
+  {
+    "name": "扶",
+    "alphabetic": "fu",
+    "tone": "fú"
+  },
+  {
+    "name": "堵",
+    "alphabetic": "du",
+    "tone": "dǔ"
+  },
+  {
+    "name": "冉",
+    "alphabetic": "ran",
+    "tone": "rǎn"
+  },
+  {
+    "name": "宰",
+    "alphabetic": "zai",
+    "tone": "zǎi"
+  },
+  {
+    "name": "郦",
+    "alphabetic": "li",
+    "tone": "lì"
+  },
+  {
+    "name": "雍",
+    "alphabetic": "yong",
+    "tone": "yōng"
+  },
+  {
+    "name": "郤",
+    "alphabetic": "xi",
+    "tone": "xì"
+  },
+  {
+    "name": "璩",
+    "alphabetic": "qu",
+    "tone": "qú"
+  },
+  {
+    "name": "桑",
+    "alphabetic": "sang",
+    "tone": "sāng"
+  },
+  {
+    "name": "桂",
+    "alphabetic": "gui",
+    "tone": "guì"
+  },
+  {
+    "name": "濮",
+    "alphabetic": "pu",
+    "tone": "pú"
+  },
+  {
+    "name": "牛",
+    "alphabetic": "niu",
+    "tone": "niú"
+  },
+  {
+    "name": "寿",
+    "alphabetic": "shou",
+    "tone": "shòu"
+  },
+  {
+    "name": "通",
+    "alphabetic": "tong",
+    "tone": "tōng"
+  },
+  {
+    "name": "边",
+    "alphabetic": "bian",
+    "tone": "biān"
+  },
+  {
+    "name": "扈",
+    "alphabetic": "hu",
+    "tone": "hù"
+  },
+  {
+    "name": "燕",
+    "alphabetic": "yan",
+    "tone": "yān"
+  },
+  {
+    "name": "冀",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "郏",
+    "alphabetic": "jia",
+    "tone": "jiá"
+  },
+  {
+    "name": "浦",
+    "alphabetic": "pu",
+    "tone": "pǔ"
+  },
+  {
+    "name": "尚",
+    "alphabetic": "shang",
+    "tone": "shàng"
+  },
+  {
+    "name": "农",
+    "alphabetic": "nong",
+    "tone": "nóng"
+  },
+  {
+    "name": "温",
+    "alphabetic": "wen",
+    "tone": "wēn"
+  },
+  {
+    "name": "别",
+    "alphabetic": "bie",
+    "tone": "bié"
+  },
+  {
+    "name": "庄",
+    "alphabetic": "zhuang",
+    "tone": "zhuāng"
+  },
+  {
+    "name": "晏",
+    "alphabetic": "yan",
+    "tone": "yàn"
+  },
+  {
+    "name": "柴",
+    "alphabetic": "chai",
+    "tone": "chái"
+  },
+  {
+    "name": "瞿",
+    "alphabetic": "qu",
+    "tone": "qú"
+  },
+  {
+    "name": "阎",
+    "alphabetic": "yan",
+    "tone": "yán"
+  },
+  {
+    "name": "充",
+    "alphabetic": "chong",
+    "tone": "chōng"
+  },
+  {
+    "name": "慕",
+    "alphabetic": "mu",
+    "tone": "mù"
+  },
+  {
+    "name": "连",
+    "alphabetic": "lian",
+    "tone": "lián"
+  },
+  {
+    "name": "茹",
+    "alphabetic": "ru",
+    "tone": "rú"
+  },
+  {
+    "name": "习",
+    "alphabetic": "xi",
+    "tone": "xí"
+  },
+  {
+    "name": "宦",
+    "alphabetic": "huan",
+    "tone": "huàn"
+  },
+  {
+    "name": "艾",
+    "alphabetic": "ai",
+    "tone": "ài"
+  },
+  {
+    "name": "鱼",
+    "alphabetic": "yu",
+    "tone": "yú"
+  },
+  {
+    "name": "容",
+    "alphabetic": "rong",
+    "tone": "róng"
+  },
+  {
+    "name": "向",
+    "alphabetic": "xiang",
+    "tone": "xiàng"
+  },
+  {
+    "name": "古",
+    "alphabetic": "gu",
+    "tone": "gǔ"
+  },
+  {
+    "name": "易",
+    "alphabetic": "yi",
+    "tone": "yì"
+  },
+  {
+    "name": "慎",
+    "alphabetic": "shen",
+    "tone": "shèn"
+  },
+  {
+    "name": "戈",
+    "alphabetic": "ge",
+    "tone": "gē"
+  },
+  {
+    "name": "廖",
+    "alphabetic": "liao",
+    "tone": "liào"
+  },
+  {
+    "name": "庾",
+    "alphabetic": "yu",
+    "tone": "yǔ"
+  },
+  {
+    "name": "终",
+    "alphabetic": "zhong",
+    "tone": "zhōng"
+  },
+  {
+    "name": "暨",
+    "alphabetic": "ji",
+    "tone": "jì"
+  },
+  {
+    "name": "居",
+    "alphabetic": "ju",
+    "tone": "jū"
+  },
+  {
+    "name": "衡",
+    "alphabetic": "heng",
+    "tone": "héng"
+  },
+  {
+    "name": "步",
+    "alphabetic": "bu",
+    "tone": "bù"
+  },
+  {
+    "name": "都",
+    "alphabetic": "du",
+    "tone": "dū"
+  },
+  {
+    "name": "耿",
+    "alphabetic": "geng",
+    "tone": "gěng"
+  },
+  {
+    "name": "满",
+    "alphabetic": "man",
+    "tone": "mǎn"
+  },
+  {
+    "name": "弘",
+    "alphabetic": "hong",
+    "tone": "hóng"
+  },
+  {
+    "name": "匡",
+    "alphabetic": "kuang",
+    "tone": "kuāng"
+  },
+  {
+    "name": "国",
+    "alphabetic": "guo",
+    "tone": "guó"
+  },
+  {
+    "name": "文",
+    "alphabetic": "wen",
+    "tone": "wén"
+  },
+  {
+    "name": "寇",
+    "alphabetic": "kou",
+    "tone": "kòu"
+  },
+  {
+    "name": "广",
+    "alphabetic": "guang",
+    "tone": "guǎng"
+  },
+  {
+    "name": "禄",
+    "alphabetic": "lu",
+    "tone": "lù"
+  },
+  {
+    "name": "阙",
+    "alphabetic": "que",
+    "tone": "quē"
+  },
+  {
+    "name": "东",
+    "alphabetic": "dong",
+    "tone": "dōng"
+  },
+  {
+    "name": "欧",
+    "alphabetic": "ou",
+    "tone": "ōu"
+  },
+  {
+    "name": "殳",
+    "alphabetic": "shu",
+    "tone": "shū"
+  },
+  {
+    "name": "沃",
+    "alphabetic": "wo",
+    "tone": "wò"
+  },
+  {
+    "name": "利",
+    "alphabetic": "li",
+    "tone": "lì"
+  },
+  {
+    "name": "蔚",
+    "alphabetic": "wei",
+    "tone": "wèi"
+  },
+  {
+    "name": "越",
+    "alphabetic": "yue",
+    "tone": "yuè"
+  },
+  {
+    "name": "夔",
+    "alphabetic": "kui",
+    "tone": "kuí"
+  },
+  {
+    "name": "隆",
+    "alphabetic": "long",
+    "tone": "lóng"
+  },
+  {
+    "name": "师",
+    "alphabetic": "shi",
+    "tone": "shī"
+  },
+  {
+    "name": "巩",
+    "alphabetic": "gong",
+    "tone": "gǒng"
+  },
+  {
+    "name": "厍",
+    "alphabetic": "she",
+    "tone": "shè"
+  },
+  {
+    "name": "聂",
+    "alphabetic": "nie",
+    "tone": "niè"
+  },
+  {
+    "name": "晁",
+    "alphabetic": "chao",
+    "tone": "cháo"
+  },
+  {
+    "name": "勾",
+    "alphabetic": "gou",
+    "tone": "gōu"
+  },
+  {
+    "name": "敖",
+    "alphabetic": "ao",
+    "tone": "áo"
+  },
+  {
+    "name": "融",
+    "alphabetic": "rong",
+    "tone": "róng"
+  },
+  {
+    "name": "冷",
+    "alphabetic": "leng",
+    "tone": "lěng"
+  },
+  {
+    "name": "訾",
+    "alphabetic": "zi",
+    "tone": "zǐ"
+  },
+  {
+    "name": "辛",
+    "alphabetic": "xin",
+    "tone": "xīn"
+  },
+  {
+    "name": "阚",
+    "alphabetic": "kan",
+    "tone": "kàn"
+  },
+  {
+    "name": "那",
+    "alphabetic": "na",
+    "tone": "nā"
+  },
+  {
+    "name": "简",
+    "alphabetic": "jian",
+    "tone": "jiǎn"
+  },
+  {
+    "name": "饶",
+    "alphabetic": "rao",
+    "tone": "ráo"
+  },
+  {
+    "name": "空",
+    "alphabetic": "kong",
+    "tone": "kōng"
+  },
+  {
+    "name": "曾",
+    "alphabetic": "zeng",
+    "tone": "zēng"
+  },
+  {
+    "name": "母",
+    "alphabetic": "mu",
+    "tone": "mǔ"
+  },
+  {
+    "name": "沙",
+    "alphabetic": "sha",
+    "tone": "shā"
+  },
+  {
+    "name": "乜",
+    "alphabetic": "nie",
+    "tone": "niè"
+  },
+  {
+    "name": "养",
+    "alphabetic": "yang",
+    "tone": "yǎng"
+  },
+  {
+    "name": "鞠",
+    "alphabetic": "ju",
+    "tone": "jū"
+  },
+  {
+    "name": "须",
+    "alphabetic": "xu",
+    "tone": "xū"
+  },
+  {
+    "name": "丰",
+    "alphabetic": "feng",
+    "tone": "fēng"
+  },
+  {
+    "name": "巢",
+    "alphabetic": "chao",
+    "tone": "cháo"
+  },
+  {
+    "name": "关",
+    "alphabetic": "guan",
+    "tone": "guān"
+  },
+  {
+    "name": "蒯",
+    "alphabetic": "kuai",
+    "tone": "kuǎi"
+  },
+  {
+    "name": "相",
+    "alphabetic": "xiang",
+    "tone": "xiàng"
+  },
+  {
+    "name": "查",
+    "alphabetic": "zha",
+    "tone": "zhā"
+  },
+  {
+    "name": "后",
+    "alphabetic": "hou",
+    "tone": "hòu"
+  },
+  {
+    "name": "荆",
+    "alphabetic": "jing",
+    "tone": "jīng"
+  },
+  {
+    "name": "红",
+    "alphabetic": "hong",
+    "tone": "hóng"
+  },
+  {
+    "name": "游",
+    "alphabetic": "you",
+    "tone": "yóu"
+  },
+  {
+    "name": "竺",
+    "alphabetic": "zhu",
+    "tone": "zhú"
+  },
+  {
+    "name": "权",
+    "alphabetic": "quan",
+    "tone": "quán"
+  },
+  {
+    "name": "逯",
+    "alphabetic": "lu",
+    "tone": "lù"
+  },
+  {
+    "name": "盖",
+    "alphabetic": "gai",
+    "tone": "gài"
+  },
+  {
+    "name": "益",
+    "alphabetic": "yi",
+    "tone": "yì"
+  },
+  {
+    "name": "桓",
+    "alphabetic": "huan",
+    "tone": "huán"
+  },
+  {
+    "name": "公",
+    "alphabetic": "gong",
+    "tone": "gōng"
+  },
+  {
+    "name": "万俟",
+    "alphabetic": "mo qi",
+    "tone": "mò qí"
+  },
+  {
+    "name": "司马",
+    "alphabetic": "si ma",
+    "tone": "sī mǎ"
+  },
+  {
+    "name": "上官",
+    "alphabetic": "shang guan",
+    "tone": "shàng guān"
+  },
+  {
+    "name": "欧阳",
+    "alphabetic": "ou yang",
+    "tone": "ōu yáng"
+  },
+  {
+    "name": "夏侯",
+    "alphabetic": "xia hou",
+    "tone": "xià hóu"
+  },
+  {
+    "name": "诸葛",
+    "alphabetic": "zhu ge",
+    "tone": "zhū gě"
+  },
+  {
+    "name": "闻人",
+    "alphabetic": "wen ren",
+    "tone": "wén rén"
+  },
+  {
+    "name": "东方",
+    "alphabetic": "dong fang",
+    "tone": "dōng fāng"
+  },
+  {
+    "name": "赫连",
+    "alphabetic": "he lian",
+    "tone": "hè lián"
+  },
+  {
+    "name": "皇甫",
+    "alphabetic": "huang pu",
+    "tone": "huáng pǔ"
+  },
+  {
+    "name": "尉迟",
+    "alphabetic": "yu chi",
+    "tone": "yù chí"
+  },
+  {
+    "name": "公羊",
+    "alphabetic": "gong yang",
+    "tone": "gōng yáng"
+  },
+  {
+    "name": "澹台",
+    "alphabetic": "tan tai",
+    "tone": "tán tái"
+  },
+  {
+    "name": "公冶",
+    "alphabetic": "gong ye",
+    "tone": "gōng yě"
+  },
+  {
+    "name": "宗政",
+    "alphabetic": "zong zheng",
+    "tone": "zōng zhèng"
+  },
+  {
+    "name": "濮阳",
+    "alphabetic": "pu yang",
+    "tone": "pú yáng"
+  },
+  {
+    "name": "淳于",
+    "alphabetic": "chun yu",
+    "tone": "chún yú"
+  },
+  {
+    "name": "单于",
+    "alphabetic": "chan yu",
+    "tone": "chán yú"
+  },
+  {
+    "name": "太叔",
+    "alphabetic": "tai shu",
+    "tone": "tài shū"
+  },
+  {
+    "name": "申屠",
+    "alphabetic": "shen tu",
+    "tone": "shēn tú"
+  },
+  {
+    "name": "公孙",
+    "alphabetic": "gong sun",
+    "tone": "gōng sūn"
+  },
+  {
+    "name": "仲孙",
+    "alphabetic": "zhong sun",
+    "tone": "zhòng sūn"
+  },
+  {
+    "name": "轩辕",
+    "alphabetic": "xuan yuan",
+    "tone": "xuān yuán"
+  },
+  {
+    "name": "令狐",
+    "alphabetic": "ling hu ",
+    "tone": "lìng hú "
+  },
+  {
+    "name": "钟离",
+    "alphabetic": "zhong li",
+    "tone": "zhōng lí"
+  },
+  {
+    "name": "宇文",
+    "alphabetic": "yu wen",
+    "tone": "yǔ wén"
+  },
+  {
+    "name": "长孙",
+    "alphabetic": "zhang sun",
+    "tone": "zhǎng sūn"
+  },
+  {
+    "name": "慕容",
+    "alphabetic": "mu rong",
+    "tone": "mù róng"
+  },
+  {
+    "name": "鲜于",
+    "alphabetic": "xian yu",
+    "tone": "xiān yú"
+  },
+  {
+    "name": "闾丘",
+    "alphabetic": "lv qiu",
+    "tone": "lǘ qiū"
+  },
+  {
+    "name": "司徒",
+    "alphabetic": "si tu",
+    "tone": "sī tú"
+  },
+  {
+    "name": "司空",
+    "alphabetic": "si kong",
+    "tone": "sī kōng"
+  },
+  {
+    "name": "亓官",
+    "alphabetic": "qi guan",
+    "tone": "qí guān"
+  },
+  {
+    "name": "司寇",
+    "alphabetic": "si kou",
+    "tone": "sī kòu"
+  },
+  {
+    "name": "仉督",
+    "alphabetic": "zhang du",
+    "tone": "zhǎng dū"
+  },
+  {
+    "name": "子车",
+    "alphabetic": "zi ju",
+    "tone": "zǐ jū"
+  },
+  {
+    "name": "颛孙",
+    "alphabetic": "zhuan sun",
+    "tone": "zhuān sūn"
+  },
+  {
+    "name": "端木",
+    "alphabetic": "duan mu",
+    "tone": "duān mù"
+  },
+  {
+    "name": "巫马",
+    "alphabetic": "wu ma",
+    "tone": "wū mǎ"
+  },
+  {
+    "name": "公西",
+    "alphabetic": "gong xi",
+    "tone": "gōng xī"
+  },
+  {
+    "name": "漆雕",
+    "alphabetic": "qi diao",
+    "tone": "qī diāo"
+  },
+  {
+    "name": "乐正",
+    "alphabetic": "yue zheng",
+    "tone": "yuè zhèng"
+  },
+  {
+    "name": "壤驷",
+    "alphabetic": "rang si",
+    "tone": "rǎng sì"
+  },
+  {
+    "name": "公良",
+    "alphabetic": "gong liang",
+    "tone": "gōng liáng"
+  },
+  {
+    "name": "拓跋",
+    "alphabetic": "tuo ba",
+    "tone": "tuò bá"
+  },
+  {
+    "name": "夹谷",
+    "alphabetic": "jia gu",
+    "tone": "jiá gǔ"
+  },
+  {
+    "name": "宰父",
+    "alphabetic": "zai fu",
+    "tone": "zǎi fǔ"
+  },
+  {
+    "name": "榖梁",
+    "alphabetic": "gu liang",
+    "tone": "gǔ liáng"
+  },
+  {
+    "name": "晋",
+    "alphabetic": "jin",
+    "tone": "jìn"
+  },
+  {
+    "name": "楚",
+    "alphabetic": "chu",
+    "tone": "chǔ"
+  },
+  {
+    "name": "闫",
+    "alphabetic": "yan",
+    "tone": "yán"
+  },
+  {
+    "name": "法",
+    "alphabetic": "fa",
+    "tone": "fǎ"
+  },
+  {
+    "name": "汝",
+    "alphabetic": "ru",
+    "tone": "rǔ"
+  },
+  {
+    "name": "鄢",
+    "alphabetic": "yan",
+    "tone": "yān"
+  },
+  {
+    "name": "涂",
+    "alphabetic": "tu",
+    "tone": "tú"
+  },
+  {
+    "name": "钦",
+    "alphabetic": "qin",
+    "tone": "qīn"
+  },
+  {
+    "name": "段干",
+    "alphabetic": "duan gan",
+    "tone": "duàn gān"
+  },
+  {
+    "name": "百里",
+    "alphabetic": "bai li",
+    "tone": "bǎi lǐ"
+  },
+  {
+    "name": "东郭",
+    "alphabetic": "dong guo",
+    "tone": "dōng guō"
+  },
+  {
+    "name": "南门",
+    "alphabetic": "nan men",
+    "tone": "nán mén"
+  },
+  {
+    "name": "呼延",
+    "alphabetic": "hu yan",
+    "tone": "hū yán"
+  },
+  {
+    "name": "归",
+    "alphabetic": "gui",
+    "tone": "guī"
+  },
+  {
+    "name": "海 ",
+    "alphabetic": "hai",
+    "tone": "hǎi"
+  },
+  {
+    "name": "羊舌",
+    "alphabetic": "yang she",
+    "tone": "yáng shé"
+  },
+  {
+    "name": "微",
+    "alphabetic": "wei",
+    "tone": "wēi"
+  },
+  {
+    "name": "生",
+    "alphabetic": "sheng",
+    "tone": "shēng"
+  },
+  {
+    "name": "岳",
+    "alphabetic": "yue",
+    "tone": "yuè"
+  },
+  {
+    "name": "帅",
+    "alphabetic": "shuai",
+    "tone": "shuài"
+  },
+  {
+    "name": "缑",
+    "alphabetic": "gou",
+    "tone": "gōu"
+  },
+  {
+    "name": "亢",
+    "alphabetic": "kang",
+    "tone": "kàng"
+  },
+  {
+    "name": "况",
+    "alphabetic": "kuang",
+    "tone": "kuàng"
+  },
+  {
+    "name": "后",
+    "alphabetic": "hou",
+    "tone": "hòu"
+  },
+  {
+    "name": "有",
+    "alphabetic": "you",
+    "tone": "yǒu"
+  },
+  {
+    "name": "琴",
+    "alphabetic": "qin",
+    "tone": "qín"
+  },
+  {
+    "name": "梁丘",
+    "alphabetic": "liang qiu",
+    "tone": "liáng qiū"
+  },
+  {
+    "name": "左丘",
+    "alphabetic": "zuo qiu",
+    "tone": "zuǒ qiū"
+  },
+  {
+    "name": "东门",
+    "alphabetic": "dong men",
+    "tone": "dōng mén"
+  },
+  {
+    "name": "西门",
+    "alphabetic": "xi men",
+    "tone": "xī mén"
+  },
+  {
+    "name": "商",
+    "alphabetic": "shang",
+    "tone": "shāng"
+  },
+  {
+    "name": "牟",
+    "alphabetic": "mou",
+    "tone": "móu"
+  },
+  {
+    "name": "佘",
+    "alphabetic": "she",
+    "tone": "shé"
+  },
+  {
+    "name": "佴",
+    "alphabetic": "nai",
+    "tone": "nài"
+  },
+  {
+    "name": "伯",
+    "alphabetic": "bo",
+    "tone": "bó"
+  },
+  {
+    "name": "赏",
+    "alphabetic": "shang",
+    "tone": "shǎng"
+  },
+  {
+    "name": "南宫",
+    "alphabetic": "nan gong",
+    "tone": "nán gōng"
+  },
+  {
+    "name": "墨",
+    "alphabetic": "mo",
+    "tone": "mò"
+  },
+  {
+    "name": "哈",
+    "alphabetic": "ha",
+    "tone": "hǎ"
+  },
+  {
+    "name": "谯",
+    "alphabetic": "qiao",
+    "tone": "qiáo"
+  },
+  {
+    "name": "笪",
+    "alphabetic": "da",
+    "tone": "dá"
+  },
+  {
+    "name": "年",
+    "alphabetic": "nian",
+    "tone": "nián"
+  },
+  {
+    "name": "爱",
+    "alphabetic": "ai",
+    "tone": "ài"
+  },
+  {
+    "name": "阳",
+    "alphabetic": "yang",
+    "tone": "yáng"
+  },
+  {
+    "name": "佟",
+    "alphabetic": "tong",
+    "tone": "tóng"
+  },
+  {
+    "name": "第五",
+    "alphabetic": "di wu",
+    "tone": "dì wǔ"
+  },
+  {
+    "name": "言",
+    "alphabetic": "yan",
+    "tone": "yán"
+  },
+  {
+    "name": "福",
+    "alphabetic": "fu)",
+    "tone": "fú)"
+  }
+]
